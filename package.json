@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "db:studio": "bun drizzle-kit studio",
-    "db:push": "bun drizzle-kit push:pg",
+    "db:push": "bun drizzle-kit push",
     "db:seed": "bun ./scripts/seed.ts"
   },
   "dependencies": {
